@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<?xml-stylesheet type='text/xsl' href='Lab.xsl'?>
+<tutorial>
+  <dog caption="Собака: " name="Шарик">
+    <dogInfo weight="18 кг" color="рыжий с черными подпалинами"/>
+  </dog>
+</tutorial>
